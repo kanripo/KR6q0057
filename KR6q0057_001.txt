@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:46.610786
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:58
 #+TITLE: 楊岐方會和尚後錄
 #+PROPERTY: CBETA_ID T47n1994B
 #+PROPERTY: ID KR6q0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1994B
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0057_T_000-0646a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0057_T_001-0646a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1994B¶
-
- 楊岐方會和尚後錄¶
+No. 1994B¶
+楊岐方會和尚後錄¶
 ¶
 
 師。入院開堂。宣疏了。師云。大眾。大家散去。¶
@@ -244,11 +243,7 @@ No.1994B¶
 後語。雲蓋今日為大眾舉。良久云。太平本是¶
 將軍致。不許將軍見太平。¶
 
-勘辯
-:PROPERTIES:
-:head: 勘辯
-:END:
-¶
+* 勘辯¶
 
 一日。璉三生至。師云。寒風凜烈。紅葉飄空。¶
 祖室高流。朝離何處。璉云。齋後離南源。師¶
@@ -299,27 +294,23 @@ No.1994B¶
 部孫比部。不將酒肉污腸肚。侍僕妻兒渾不¶
 顧。釋迦老子是誰做。孫比部孫比部。¶
 
-自術真讚
-:PROPERTIES:
-:head: 自術真讚
-:END:
-¶
+* 自術真讚¶
 
 #+BEGIN_VERSE
 「　口似乞兒席袋。
 　鼻似園頭屎杓。
 　勞君神筆寫¶成。
-　一任天下卜度。
+　一任天下卜度。」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　似驢非驢。
 　似馬非馬。
 　咄哉楊岐。
-　牽犁拽杷。
+　牽犁拽杷。」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　指驢又無尾。
@@ -329,6 +320,6 @@ No.1994B¶
 　無言不同佛。
 　有語誰斟酌。
 　巧拙常現¶前。
-　勞君安寫邈。
+　勞君安寫邈。」
 #+END_VERSE
-」　楊岐方會和尚後錄(終)
+　楊岐方會和尚後錄(終)
